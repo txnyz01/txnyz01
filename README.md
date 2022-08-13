@@ -1,12 +1,13 @@
 <h1>Hi, I'm Antonio! <br/><a href="https://github.com/txnyz01">Programmer</a>, <a href="https://www.linkedin.com/in/antonio-velichkov-46b5a719a/">Cybersecurity Professional</a>
 
+<h2>My Journy to Blue Team</h2>
+ - [Notion](https://tonyz.notion.site/Offensive-Security-Basics-f6fb60c6acec4f6595e3d290d9b84a82)
+
 <h2>👨‍💻 Projects:</h2>
 
-- <b>SIEM, Log Analysis, Malware Analysis, EDR, etc. (Ongoing)</b>
-  - [LetsDefend labs](https://docs.google.com/document/d/1Bj6hXZCkNfiHKLrVA82u0i-DKDlwer1BCB2GsfyIpUY/edit?usp=sharing)
-- <b> Small recovery tool coded in C, that recovers JPEGs from an sdcard "./recover 'sdcard'.raw"<b>
+- <b> Small recovery tool coded in C, that recovers JPEGs from an sdcard "./recover 'sdcard'.raw"</b>
   - [JPEG recovery tool](https://github.com/code50/33939134/blob/main/recover/recover.c)
-- <b>Set up a fully functioning and secure cisco network on cisco packet tracer. (TODO)<b>
+- <b>Set up a fully functioning and secure cisco network on cisco packet tracer. (TODO)</b>
 - <b>Splunk Labs (TODO)<b>
 - <b>CTFs (TODO)<b>
 
