@@ -2,7 +2,7 @@
 
 <h2>My Journey to Blue Team</h2>
 - <b>SOC Analyst Study Guide</b>
-  - [Notion](https://tonyz.notion.site/Offensive-Security-Basics-f6fb60c6acec4f6595e3d290d9b84a82)
+<a href="https://tonyz.notion.site/Offensive-Security-Basics-f6fb60c6acec4f6595e3d290d9b84a82">Notion</a>
 
 <h2>👨‍💻 Projects:</h2>
 
