@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (Placeholder)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>SIEM Analysis Labs</b>
+  - [LetsDefend labs](https://github.com/txnyz0)
 
 
 <h2> 🤳 Connect with me:</h2>
