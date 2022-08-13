@@ -4,6 +4,8 @@
 
 - <b>SIEM Analysis Labs</b>
   - [LetsDefend labs](https://docs.google.com/document/d/1Bj6hXZCkNfiHKLrVA82u0i-DKDlwer1BCB2GsfyIpUY/edit?usp=sharing)
+- <b> Small recovery tool coded in C, that recovers JPEGs from an sdcard "./recover 'sdcard'.raw"<b>
+  - [JPEG recovery tool](https://github.com/code50/33939134/blob/main/recover/recover.c)
 
 
 <h2> 🤳 Connect with me:</h2>
