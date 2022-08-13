@@ -2,10 +2,13 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>SIEM, Log Analysis, Malware Analysis, EDR, etc.</b>
+- <b>SIEM, Log Analysis, Malware Analysis, EDR, etc. (Ongoing)</b>
   - [LetsDefend labs](https://docs.google.com/document/d/1Bj6hXZCkNfiHKLrVA82u0i-DKDlwer1BCB2GsfyIpUY/edit?usp=sharing)
 - <b> Small recovery tool coded in C, that recovers JPEGs from an sdcard "./recover 'sdcard'.raw"<b>
   - [JPEG recovery tool](https://github.com/code50/33939134/blob/main/recover/recover.c)
+- <b>Set up a fully functioning and secure cisco network on cisco packet tracer. (TODO)<b>
+- <b>Splunk Labs (TODO)<b>
+- <b>CTFs (TODO)<b>
 
 
 <h2> 🤳 Connect with me:</h2>
