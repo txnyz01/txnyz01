@@ -1,6 +1,6 @@
 <h1>Hi, I'm Antonio! <br/><a href="https://github.com/txnyz01">Programmer</a>, <a href="https://www.linkedin.com/in/antonio-velichkov-46b5a719a/">Cybersecurity Professional</a>
 
-<h2>My Journy to Blue Team</h2>
+<h2>My Journey to Blue Team</h2>
  - [Notion](https://tonyz.notion.site/Offensive-Security-Basics-f6fb60c6acec4f6595e3d290d9b84a82)
 
 <h2>👨‍💻 Projects:</h2>
