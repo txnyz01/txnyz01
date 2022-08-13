@@ -3,7 +3,7 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b>SIEM Analysis Labs</b>
-  - [LetsDefend labs](https://github.com/txnyz0)
+  - [LetsDefend labs](https://docs.google.com/document/d/1Bj6hXZCkNfiHKLrVA82u0i-DKDlwer1BCB2GsfyIpUY/edit?usp=sharing)
 
 
 <h2> 🤳 Connect with me:</h2>
