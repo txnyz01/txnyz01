@@ -1,4 +1,4 @@
-<h1>Hi, I'm Antonio! <br/><a href="https://github.com/txnyz01">Programmer</a>, <a href="https://www.linkedin.com/in/antonio-velichkov-46b5a719a/">Data Analyst</a>
+<h1>Hi, I'm Antonio! <br/><a href="https://github.com/txnyz01">Programmer</a>, <a href="https://www.linkedin.com/in/antonio-velichkov-46b5a719a/">Data Analyst</a></h1>
 <b> GitHub still work in progress. There is a lot more to come. </b>
 <h2>👨‍💻 Projects:</h2>
 - <b> Small recovery tool coded in C, that recovers JPEGs from an sdcard "./recover 'sdcard'.raw"</b>
