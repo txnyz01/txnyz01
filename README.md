@@ -1,9 +1,5 @@
 <h1>Hi, I'm Antonio! <br/><a href="https://github.com/txnyz01">Programmer</a>, <a href="https://www.linkedin.com/in/antonio-velichkov-46b5a719a/">Data Analyst</a>
 
-<h2>My Journey to Blue Team</h2>
-- <b>SOC Analyst Study Guide</b>
-<a href="https://tonyz.notion.site/Offensive-Security-Basics-f6fb60c6acec4f6595e3d290d9b84a82">Notion</a>
-
 <h2>👨‍💻 Projects:</h2>
 - <b> Small recovery tool coded in C, that recovers JPEGs from an sdcard "./recover 'sdcard'.raw"</b>
   - [JPEG recovery tool](https://github.com/code50/33939134/blob/main/recover/recover.c)
