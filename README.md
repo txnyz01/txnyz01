@@ -8,10 +8,10 @@
  [log.sql]:(https://github.com/code50/33939134/blob/2748ea09b3c53154c0857d9cab180eeb24ad5e66/fiftyville/log.sql)</p>
  
 <p><b> XGBoost Machine Learning Practice</b>
- [Colabs]:(https://colab.research.google.com/drive/1_RgEg2tiHG73Fuup_AfOpy-Cv2XPx-9U?usp=sharing)</p>
+ (https://colab.research.google.com/drive/1_RgEg2tiHG73Fuup_AfOpy-Cv2XPx-9U?usp=sharing)</p>
  
 <p><b> Machine Learning Clasification Practice </b>
-  [Colabs]:(https://colab.research.google.com/drive/1cmaogckViL1qZ4dIa3-wrUukUmxA6nPG?usp=sharing)</p>
+  [Colabs]: https://colab.research.google.com/drive/1cmaogckViL1qZ4dIa3-wrUukUmxA6nPG?usp=sharing/ </p>
 
 <h2> 🤳 Connect with me:</h2>
 
