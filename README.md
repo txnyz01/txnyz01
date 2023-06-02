@@ -1,7 +1,7 @@
 <h1>Hi, I'm Antonio! <br/><a href="https://github.com/txnyz01">Programmer</a>, <a href="https://github.com/txnyz01">Data Analyst</a></h1>
 
 <h2>👨‍💻 Projects:</h2>
-<p><b> Indeed Scraper</b> ()
+<p><b> Indeed Scraper</b> (https://github.com/txnyz01/indeed-scraper)
  <p><b> XGBoost Machine Learning Practice</b>
  (https://colab.research.google.com/drive/1_RgEg2tiHG73Fuup_AfOpy-Cv2XPx-9U?usp=sharing)</p>
  
