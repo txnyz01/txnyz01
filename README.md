@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+[OSINT CTF Games](https://github.com/txnyz01/Osint-Hacktoria)
+
 [Indeed Scraper with Python](https://github.com/txnyz01/indeed-scraper)
 
 [XGBoost Machine Learning Practice](https://colab.research.google.com/drive/1_RgEg2tiHG73Fuup_AfOpy-Cv2XPx-9U?usp=sharing) 
