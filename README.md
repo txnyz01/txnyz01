@@ -14,12 +14,3 @@
 
 [A crime SQL game (using SQL queries to find the criminal, their acomplice and where they ran away to)](https://github.com/code50/33939134/blob/2748ea09b3c53154c0857d9cab180eeb24ad5e66/fiftyville/log.sql)
 
- 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="AV | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AV | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/tyzv01/
-[linkedin]: https://www.linkedin.com/in/antonio-velichkov-46b5a719a/
-
